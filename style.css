@@ -15,20 +15,22 @@ img {
 h1 {
     color: rgb(7, 7, 141);
 }
-ul {
-    background-color: rgb(202, 199, 199);
+#p1 {
+    background-color: rgb(235, 235, 235);
     color: black;
     list-style: none;
-    margin
+    border-style: inset;
+    
 }
 h2 {
     color: rgb(7, 7, 141);
 }
 
-#p1 {
-    background-color: rgb(231, 165, 165);
+#p2 {
+    background-color: rgb(255, 212, 212);
+    border-style: inset;
 }
 
 .bordure {
-    border-top: solid 3px rgb(0, 0, 0);
+    border: solid 3px rgb(0, 0, 0);
 }
