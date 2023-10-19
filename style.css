@@ -1,23 +1,28 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(0, 0, 0);
-    font-size: 14px;
+    color: #000000;
+    font-size: 17px;
+    margin: auto;
+    text-align: center;
 }
 
 img {
-    size-adjust: 50%;
+    width: 50%;
+    
 }
 
 h1 {
-    color: blue;
+    color: rgb(7, 7, 141);
 }
 ul {
     background-color: rgb(202, 199, 199);
     color: black;
+    list-style: none;
+    margin
 }
 h2 {
-    color: blue;
+    color: rgb(7, 7, 141);
 }
 
 #p1 {
